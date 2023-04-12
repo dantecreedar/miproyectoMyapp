@@ -1,0 +1,5 @@
+h3, h4,p, #divImage_1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,28 @@
+{
+    "user_1":[
+        {
+            "id":100,
+            "nombre":"jose",
+            "apellido":"fernandez",
+            "edad":45
+        },
+        {
+            "ciudad":"Buenos Aires",
+            "estado_civil":"casado",
+            "trabajo":"informatico"
+        }
+    ],
+    "user_2":[
+        {
+            "id":101,
+            "nombre":"Maria",
+            "apellido":"fernandez",
+            "edad":25
+        },
+        {
+            "ciudad":"Buenos Aires",
+            "estado_civil":"casada",
+            "trabajo":"ingeniero"
+        }
+    ]
+}
